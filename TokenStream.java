@@ -6,6 +6,7 @@
 // the code and also make sure it implements a scanner for JAY - not something
 // else.
 
+package com.scanner.project
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
